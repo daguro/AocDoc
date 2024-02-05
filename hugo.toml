@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://atomsofcomputing.com/'
 languageCode = 'en-us'
 title = 'Atoms of Computing'
 theme = "hugo-xterm"
